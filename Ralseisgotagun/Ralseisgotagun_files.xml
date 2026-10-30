@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="RGA.png" source="original">
+    <mtime>1673215907</mtime>
+    <size>19800</size>
+    <md5>147a196bdfa09956c304a489f201f533</md5>
+    <crc32>03e8bd6f</crc32>
+    <sha1>dffb47104fbd146c9edd5f47ee80002a17add66b</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="RGA_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>RGA.png</original>
+    <mtime>1673216291</mtime>
+    <size>7200</size>
+    <md5>718b30d7edd6f68f8fd137c78e52e545</md5>
+    <crc32>3aa9ca46</crc32>
+    <sha1>144c4f445a6ce5d28d4c7d0496438fbe9bc62f6e</sha1>
+  </file>
+  <file name="Ralseis got a gun! (By Agentalex9).zip" source="original">
+    <mtime>1673215927</mtime>
+    <size>18522980</size>
+    <md5>3ed77ec7af19212da83095957483e7f8</md5>
+    <crc32>1bda87f3</crc32>
+    <sha1>c8628d48d3f1596c89f82665c69561728f460fdc</sha1>
+    <format>ZIP</format>
+    <viruscheck>1673216279</viruscheck>
+    <filecount>3</filecount>
+  </file>
+  <file name="Ralseisgotagun_archive.torrent" source="metadata">
+    <btih>9bde4a8f6a30a23daad96105076ceccde986b265</btih>
+    <mtime>1790013778</mtime>
+    <size>2887</size>
+    <md5>f28c83f2ac9738a74ad9aad495f5cdef</md5>
+    <crc32>1de39d24</crc32>
+    <sha1>4063c5d861bfcf71a9aa0487f9751deb6d9eab48</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Ralseisgotagun_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0fa7003ece7f51a1169eb0ab2b51f79a</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Ralseisgotagun_meta.sqlite" source="original">
+    <mtime>1673215936</mtime>
+    <size>20480</size>
+    <md5>bdaae185643f146b603cc15504adce49</md5>
+    <crc32>fa08813e</crc32>
+    <sha1>57157bfcff6f4930df4ef754e32391fba364ed9a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Ralseisgotagun_meta.xml" source="original">
+    <mtime>1676351845</mtime>
+    <size>917</size>
+    <md5>88b5aa71428700baf4c6a0585ac3dfce</md5>
+    <crc32>f79525ce</crc32>
+    <sha1>7f4d462733819738a6381ff13afd8c33404c538f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Ralseisgotagun_reviews.xml" source="original">
+    <mtime>1790013776</mtime>
+    <size>1076</size>
+    <md5>4d766f0c8f9e2593fbdfd0879ed58b56</md5>
+    <crc32>d068b6f1</crc32>
+    <sha1>06d5c8fa71880385b486319f0bcd4565c9d00c61</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1673215942</mtime>
+    <size>12644</size>
+    <md5>3b1f17cc8e32d612cd4ef318775babad</md5>
+    <crc32>0a074331</crc32>
+    <sha1>9a2dc5fe1ef34c864b4e55abd9ca8c69a9f10d25</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>

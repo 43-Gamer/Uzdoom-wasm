@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="Ralseisgotagun">
+  <review>
+    <reviewtitle>cant seem to get this to work with myhouse</reviewtitle>
+    <reviewbody>this wad replaces map01 which would normally be myhouse and i cant seem to figure out how to make it load the myhouse map though i have gotten it to replace the music and the hud</reviewbody>
+    <stars>4</stars>
+    <reviewer>butterbreadbox</reviewer>
+    <reviewdate>2026-09-07 18:47:11</reviewdate>
+    <createdate>2026-09-07 18:44:03</createdate>
+    <reviewer_itemname>@butterbreadbox</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>"shit! this goat has a blick, the one thing my charm could not predict"</reviewtitle>
+    <reviewbody>Peak mod,</reviewbody>
+    <stars>5</stars>
+    <reviewer>sp00kedryt</reviewer>
+    <reviewdate>2026-09-21 18:02:36</reviewdate>
+    <createdate>2026-09-21 18:02:36</createdate>
+    <reviewer_itemname>@sp00kedryt</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>2</num_reviews>
+    <avg_rating>4.50</avg_rating>
+  </info>
+</reviews>
